@@ -11,7 +11,7 @@ Producteur musical et rappeur, autrefois chef d'entreprise, et magicien notammen
 # Les 3 choses que j'aime le plus :
 * Les jeux vidéos
 * Apprendre et découvrir de nouvelles choses
-* Voyager
+* Nicoach
 
 # Mes objectifs à atteindre pendant Becode : 
 Mon but est de devenir le plus complet possible afin d'être employable, alors je vais être assidu tout au long du parcours et être proactif.
