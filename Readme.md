@@ -1,6 +1,6 @@
 # Qui suis-je ?
 #### Mehdi Kooli futur Developpeur Junior
-J'ai 29 ans et je viens de commencer la formation Becode, tout comme vous :p
+J'ai 29 ans et je viens de commencer la formation Becode, tout comme vous.
 Producteur musical et rappeur, autrefois chef d'entreprise, et magicien notamment, j'ai touché un peu à tout mais c'est vers le développement web que je veux me diriger.
 
 # Mes 3 compétences clés : 
